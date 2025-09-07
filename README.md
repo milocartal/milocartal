@@ -10,30 +10,36 @@ Je conçois des applications web modernes en **TypeScript** avec **React / Next.
 
 * Site : [https://milocartal.github.io/](https://milocartal.github.io/)
 * Localisation : Le Puy‑en‑Velay
-* Réseaux : [LinkedIn](https://www.linkedin.com/in/milo-cartal-43510ouides) · [X](https://twitter.com/MiloCartal)
 
 ---
 
 ## Compétences
 
-**Frontend**
+<h3 align="center">Frameworks (Stack T3)</h3>
 
-* React, Next.js (App Router)
-* Tailwind CSS, Radix UI, Lucide
+<p align="center">
+  <a href="https://create.t3.gg/">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,prisma" />
+  </a>
+</p>
 
-**Backend**
+<h3 align="center">Bases de données</h3>
 
-* tRPC, Prisma, NextAuth.js
-* MySQL, Node.js
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,redis" />
+</p>
 
-**Outils**
+<h3 align="center">Outils</h3>
 
-* Docker, pnpm, ESLint, Prettier
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=github,git,docker,figma,vscode,pnpm" />
+</p>
 
-**Autres**
+<h3 align="center">Autres</h3>
 
-* C# / Unity
-* Redis (projet raccourcisseur d’URL)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cs,cpp,unity,visualstudio,redis" />
+</p>
 
 ---
 
@@ -41,9 +47,6 @@ Je conçois des applications web modernes en **TypeScript** avec **React / Next.
 
 * **SAGA – RPG‑Gestionary** — Application web pour créer et organiser univers, espèces, populations, compétences et personnages. Authentification, rôles, UI moderne. *Next.js 15, React 19, TypeScript, Tailwind, tRPC, Prisma, MySQL, NextAuth.js, Docker.*
   ▶︎ Repo : [https://github.com/milocartal/rpg-gestionary](https://github.com/milocartal/rpg-gestionary) · Démo : [https://saga.milocartal.com](https://saga.milocartal.com)
-
-* **Vehilog** — Suivi des entretiens auto/moto (factures, CT, rappels) + boîtier de diagnostic avec envoi des scans vers la plateforme. *T3 Stack (Next.js, tRPC, Prisma, Tailwind, NextAuth).*
-  ▶︎ Repo : [https://github.com/milocartal/vehilog](https://github.com/milocartal/vehilog)
 
 * **Fonts‑convertor** — Conversion de Google Fonts **TTF → WOFF2** via une app Node/Next.
   ▶︎ Repo : [https://github.com/milocartal/fonts-convertor](https://github.com/milocartal/fonts-convertor)
@@ -56,22 +59,29 @@ Je conçois des applications web modernes en **TypeScript** avec **React / Next.
 
 ---
 
-## Ce que j’utilise souvent
-
-TypeScript · React · Next.js · T3 (tRPC, Prisma, NextAuth) · Tailwind CSS · MySQL · Docker · pnpm · ESLint · Prettier
-
----
-
 ## Contact
 
-* LinkedIn : [https://www.linkedin.com/in/milo-cartal-43510ouides](https://www.linkedin.com/in/milo-cartal-43510ouides)
-* X : [https://twitter.com/MiloCartal](https://twitter.com/MiloCartal)
+<p align="center">
+  <a href="https://www.linkedin.com/in/milo-cartal-43510ouides">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/milo.cartal/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://twitter.com/MiloCartal">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="mailto:milo.cartal.pro@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
 * Portfolio : [https://milocartal.github.io/](https://milocartal.github.io/)
 
 ---
 
 ## Statistiques
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=milocartal\&layout=compact&theme=dark)
-
-
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milocartal&layout=compact&theme=dark&hide_border=true" alt="Langages les plus utilisés"/>
+</p>
