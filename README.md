@@ -72,18 +72,8 @@ TypeScript · React · Next.js · T3 (tRPC, Prisma, NextAuth) · Tailwind CSS ·
 
 ## Statistiques (optionnel)
 
-> Ces cartes sont générées par des services publics. Vous pouvez les retirer si besoin.
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=milocartal\&show_icons=true\&hide_title=true&theme=dark)
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=milocartal\&show_icons=true\&hide_title=true)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=milocartal\&layout=compact&theme=dark)
 
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=milocartal\&layout=compact)
 
----
-
-### Comment l’installer sur mon profil ?
-
-1. Créer un dépôt **public** nommé **`milocartal`** (exactement comme votre nom d’utilisateur).
-2. Ajouter un fichier **`README.md`** à la racine.
-3. Copier‑coller le contenu ci‑dessus et valider.
-
-> GitHub affichera automatiquement ce README sur votre page de profil.
