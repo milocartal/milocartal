@@ -6,7 +6,7 @@ Développeur web — Le Puy‑en‑Velay
 
 ## À propos
 
-Je conçois des applications web modernes en **TypeScript** avec **React / Next.js**. J’apprécie les architectures claires (T3 Stack), la qualité du code et les interfaces simples.
+Développeur web **TypeScript**. Applications **React** / **Next.js** sur base T3. Architecture claire, code maintenable, interfaces sobres.
 
 * Site : [https://milocartal.github.io/](https://milocartal.github.io/)
 * Localisation : Le Puy‑en‑Velay
