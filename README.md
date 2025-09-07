@@ -70,9 +70,7 @@ TypeScript · React · Next.js · T3 (tRPC, Prisma, NextAuth) · Tailwind CSS ·
 
 ---
 
-## Statistiques (optionnel)
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=milocartal\&show_icons=true\&hide_title=true&theme=dark)
+## Statistiques
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=milocartal\&layout=compact&theme=dark)
 
