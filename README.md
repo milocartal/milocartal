@@ -18,7 +18,7 @@ Développeur web **TypeScript**. Applications **React** / **Next.js** sur base T
 <h3 align="center">Frameworks (Stack T3)</h3>
 
 <p align="center">
-  <a href="https://create.t3.gg/">
+  <a href="https://create.t3.gg/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,prisma" />
   </a>
 </p>
@@ -62,13 +62,13 @@ Développeur web **TypeScript**. Applications **React** / **Next.js** sur base T
 ## Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/milo-cartal-43510ouides">
+  <a href="https://www.linkedin.com/in/milo-cartal-43510ouides" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/milo.cartal/">
+  <a href="https://www.instagram.com/milo.cartal/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="https://twitter.com/MiloCartal">
+  <a href="https://twitter.com/MiloCartal" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="mailto:milo.cartal.pro@gmail.com">
